@@ -15,5 +15,4 @@ Dependencies:
 	tinyobj object loader:
 		https://github.com/tinyobjloader/tinyobjloader/blob/release/tiny_obj_loader.h
 
-Shader compiler batch file (shaders/compile.bat) contains a path to local Vulkan installation that needs to be changed if wanting to recompile
-the program's shaders.
+Shader compiler batch file (shaders/compile.bat) contains a path to local Vulkan installation that needs to be changed if wanting to recompile the program's shaders.
